@@ -100,7 +100,7 @@ li{
     float: right;
 }
 
-#pesquisa{
+.pesquisa{
     height: 50px;
     width: 90%;
     margin-right: 310px;
@@ -108,7 +108,7 @@ li{
     font-size: 20px;
 
     background-color: rgb(32, 33, 34, 1) ;
-    background-image: url(/Image/lupa.png);
+    background-image: url(../Image/lupa.png);
     background-position: 10px 11px;
     background-repeat: no-repeat;
     background-size: 25px;
